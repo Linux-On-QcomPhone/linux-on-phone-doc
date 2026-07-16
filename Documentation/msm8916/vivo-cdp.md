@@ -8,5 +8,5 @@
 |-----|-----|-----|-----|
 | vivo Y13L Y613f Y913 | pd1304 | nt35510s | edt |
 | vivo Y23L Y623 Y923 | pd1419 | nt35510s | goodix |
-| vivo Y27L Y627 Y927 | pd1410 |  |  |
-| vivo Y28L Y628 Y928 | pd1403 |  |  |
+| vivo Y27L Y627 Y927 | pd1410 | none | none |
+| vivo Y28L Y628 Y928 | pd1403 | none | none |
